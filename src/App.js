@@ -29,7 +29,7 @@ class App extends Component {
     else{
       return (
         <div className="App">
-          <h1> The Employee Data</h1>
+          <h1> The Employee Data Fetch</h1>
 
           <table border="1">
           <tr><th>ID</th><th>Title</th></tr>
